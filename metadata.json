@@ -1,0 +1,6 @@
+{
+  "name": "Estrattore Dati Illustrator",
+  "description": "Carica immagini o PDF per estrarre automaticamente nomi e cognomi, strutturarli offline ed esportarli in un file CSV ottimizzato per Adobe Illustrator e fogli Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
